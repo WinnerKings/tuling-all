@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "tuling.gateway",
+      "type": "com.tuling.tulingmall.properties.NotAuthUrlProperties",
+      "sourceType": "com.tuling.tulingmall.properties.NotAuthUrlProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "tuling.gateway.should-skip-urls",
+      "type": "java.util.LinkedHashSet<java.lang.String>",
+      "sourceType": "com.tuling.tulingmall.properties.NotAuthUrlProperties"
+    }
+  ],
+  "hints": []
+}
